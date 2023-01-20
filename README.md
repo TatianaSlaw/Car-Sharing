@@ -1,2 +1,2 @@
 # Car-Sharing
-Sample landing Page
+Sample Landing Page
