@@ -102,6 +102,14 @@ li:hover {
     background: rgba(255, 255, 255, 0.2);
 }
 
+nav a {
+    text-decoration: none;
+    color: var(--main-color);
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+
 /*--banner--*/
 
 .banner::after {
