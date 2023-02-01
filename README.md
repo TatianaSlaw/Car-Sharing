@@ -1,3 +1,3 @@
 # Car-Sharing
-Sample Landing Page
+Sample Landing Page.
 HTML&CSS Course at CodersLab
